@@ -1,6 +1,3 @@
-# Question-app
-
- Test Yourself with these few captivating questions
  # Hi 👋 there, welcome to the Question App!
 
 🦋 The Question App is an engaging web application designed to facilitate the creation, sharing, and answering of questions. It’s perfect for users who want to interactively learn, teach, or simply have fun with Q&A.
